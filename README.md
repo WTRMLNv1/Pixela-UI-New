@@ -18,7 +18,7 @@
 
 ## Screenshots 📸
 
-<img width="376" height="474" alt="image" src="https://github.com/user-attachments/assets/137d1fd8-459d-41c2-ab9f-5b8caf1161ff" />
+<img width="505" height="210" alt="image" src="https://github.com/user-attachments/assets/b0adae0f-0be1-4a8e-ab18-04013023ffd5" />
 
 
 ---
@@ -53,3 +53,9 @@ python UI.py
 - Add daily pixels to track your progress.
 - Customize your accent color in Settings.
 - View your heatmap on the Home screen.
+
+## License
+This project is provided under the MIT license — feel free to reuse and modify.
+
+---
+Made with ❤️ by WTRMLN
