@@ -18,7 +18,8 @@
 
 ## Screenshots 📸
 
-*Include some of your app screenshots here (Home, Add Pixel, Graph, Settings)*  
+<img width="376" height="474" alt="image" src="https://github.com/user-attachments/assets/137d1fd8-459d-41c2-ab9f-5b8caf1161ff" />
+
 
 ---
 
