@@ -51,6 +51,8 @@ pip install requests
 ```bash
 python UI.py
 ```
+### Easy way to download
+Don't want to sit and download Python, along with all the dependencies for this project? You can now download the **EXE version** of this project. Just download and open. Go to the [Releases section](https://github.com/WTRMLNv1/Pixela-UI-New/releases) and download the **latest stable** version and run it!
 
 ## Usage 🛠️
 - Open the app, log in or sign up 
